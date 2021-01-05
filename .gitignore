@@ -1,0 +1,23 @@
+# Compiled class file
+*.class
+/bin/
+
+### IntelliJ IDEA ###
+.idea
+out/
+*.iws
+*.iml
+*.ip
+
+### MacOS ###
+.DS_Store
+
+### Vim ###
+.swp
+
+note/
+problem/
+Template/
+database/
+
+
