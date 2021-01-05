@@ -1,18 +1,21 @@
+# start with . file
+.*
+.gitignore
+
 # Compiled class file
 *.class
 /bin/
 
-### IntelliJ IDEA ###
+# IntelliJ IDEA
 .idea
 out/
 *.iws
 *.iml
 *.ip
 
-### MacOS ###
+# MacOS
 .DS_Store
-
-### Vim ###
+# Vim
 .swp
 
 note/
@@ -20,6 +23,5 @@ problem/
 Template/
 database/
 
-.gitignore
 
 
