@@ -1,7 +1,5 @@
-import java.sql.Time;
 import java.util.Map;
 import java.util.TreeMap;
-import sun.jvm.hotspot.memory.Space;
 
 public class P1122_Relative_Sort_Array {
   public int[] relativeSortArray(int[] arr1, int[] arr2) {

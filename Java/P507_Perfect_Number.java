@@ -1,6 +1,3 @@
-import java.sql.Time;
-import sun.jvm.hotspot.memory.Space;
-
 public class P507_Perfect_Number {
   public boolean checkPerfectNumber(int num) {
     return sol1(num);
